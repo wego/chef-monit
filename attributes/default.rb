@@ -104,4 +104,4 @@ default["monit"]["binary_uninstall"] = false
 default["monit"]["binary"]["version"] = "5.12.2"
 default["monit"]["binary"]["prefix"] = "/usr"
 default["monit"]["binary"]["url"] = "https://github.com/wego/chef-monit/raw/master/monit-5.12.2-linux-x64.tar.gz"
-default["monit"]["binary"]["checksum"] = "a4e2bba336c99ade1d90435fae166d672f206ffcc9219c1be9a3968b9131c011"
+default["monit"]["binary"]["checksum"] = "4908143752d0ee5081a50389a9206b7c905f9f8922a062a208fecf6e729a3c77"
